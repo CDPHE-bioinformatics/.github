@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: ✨ Feature request
 about: "[REQUEST]"
 title: ''
 labels: request
@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-### Feature Request
+### Feature Request ✨
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-### Solution
+### Solution 💡
 A clear and concise description of what you want to happen.
 
-### Upstream effects
+### Upstream effects 🚿
 Add any upstream effects required if this change is implemented.
 
-### Downstream effects
+### Downstream effects 🚿
 Add any downstream effects to be aware of if this change is implemented.
