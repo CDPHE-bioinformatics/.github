@@ -1,5 +1,5 @@
 ---
-name: Requirement
+name: 👩‍⚖️ Requirement
 about: "[REQUIREMENT]"
 title: ''
 labels: requirement
@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-### Need-by date
+### Need-by date 📅
 Anticipated date (YYYY-MM-DD)
 
-### Feature Request
+### Feature Request ✨
 A clear and concise description of what the problem is. 
 
-### Solution
+### Solution 💡
 A clear and concise description of what you want to happen.
 
-### Upstream effects
+### Upstream effects 🚿
 Add any upstream effects required if this change is implemented.
 
-### Downstream effects
+### Downstream effects 🚿 
 Add any downstream effects to be aware of if this change is implemented.
