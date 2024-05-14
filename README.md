@@ -1,2 +1,2 @@
 # .github
-issue templates
+CDPHE-bioinformatics templates for issues, PR, and version releases. 
