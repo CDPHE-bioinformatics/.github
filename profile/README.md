@@ -20,7 +20,7 @@ Here we share our pipelines and various assets used to monitor infectious diseas
 
 ## 🎁 Contributing
 
-We welcome contributions from the scientific community to enhance the program's capabilities and impact. Please refer to the [Wiki](https://github.com/CDPHE-bioinformatics/.github/wiki) or individual repository guidelines on contributing to this project.
+We welcome contributions from the scientific community to enhance the program's capabilities and impact. Please refer to the [Wiki](https://github.com/CDPHE-bioinformatics/.github/wiki) or individual repository guidelines on contributing to projects.
 
 ## ⚠️ Disclaimer
 
