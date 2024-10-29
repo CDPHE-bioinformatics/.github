@@ -17,10 +17,11 @@ Here we share our pipelines and various assets used to monitor infectious diseas
 - [Pipelines](https://github.com/orgs/CDPHE-bioinformatics/repositories?q=visibility%3Apublic+topic%3Apipeline)
 - [Tools](https://github.com/orgs/CDPHE-bioinformatics/repositories?q=visibility%3Apublic+topic%3Atools)
 - [Publications](https://github.com/CDPHE-bioinformatics/CDPHE-publications)
+- [Documentation](https://github.com/CDPHE-bioinformatics/.github/wiki)
 
 ## 🎁 Contributing
 
-We welcome contributions from the scientific community to enhance the program's capabilities and impact. Please refer to the [Wiki](https://github.com/CDPHE-bioinformatics/.github/wiki) or individual repository guidelines on contributing to projects.
+We welcome contributions from the scientific community to enhance the program's capabilities and impact. Please refer to our [Wiki](https://github.com/CDPHE-bioinformatics/.github/wiki/Contributing) or individual repository guidelines for more information about contributing.
 
 ## ⚠️ Disclaimer
 
