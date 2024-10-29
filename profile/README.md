@@ -14,7 +14,7 @@ GSP leverages the power of next-generation sequencing (NGS) to analyze the genet
 
 Here we share our pipelines and various assets used to monitor infectious diseases.
 
-- [Piepelines](https://github.com/orgs/CDPHE-bioinformatics/repositories?q=visibility%3Apublic+topic%3Apipeline)
+- [Pipelines](https://github.com/orgs/CDPHE-bioinformatics/repositories?q=visibility%3Apublic+topic%3Apipeline)
 - [Tools](https://github.com/orgs/CDPHE-bioinformatics/repositories?q=visibility%3Apublic+topic%3Atools)
 - [Publications](https://github.com/CDPHE-bioinformatics/CDPHE-publications)
 

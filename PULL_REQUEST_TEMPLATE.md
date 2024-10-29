@@ -1,30 +1,37 @@
-This PR closes # (add issue(s) that this pull request closes)
+This PR closes # (add issue(s) that this pull request closes).
 
-##  Aim, context, and functionality 🎯
-Provide a description of how this pull request addresses each issue that this pull request closes (e.g. provide a brief description for each issue). Provide a description of the changes made. 
+## Aim, context, and functionality 🎯
+
+Provide a description of how this pull request addresses each issue that this pull request closes (e.g. provide a brief description for each issue). Provide a description of the changes made.
 
 ## Workflow Changes ✅
-#### Upstream effects 
+
+### Upstream Effects
+
 (e.g. preprocessing of data)
 
-#### Input changes 
+### Input Changes
+
 (e.g. file changes, names of data fields, etc.)
 
-#### Output changes 
+### Output Changes
+
 (e.g. file changes, names of data fields, etc.)
 
-#### Downstream effects 
+### Downstream Effects
+
 (e.g. BigQuery organization, file structure organization, file content organization)
 
+## Testing 🛠️
 
-##  Testing 🛠️
 **Test dataset(s):**
 
 **Test(s) performed:**
 
 **Results (including if the results matched the expected results):**
 
-## Developer Checklist 👷‍♀️ 
+## Developer Checklist 👷‍♀️
+
 - [ ] Prior to development, issues were discussed with the bioinformatics team members and approved
 - [ ] Code has been refactored to sufficiently address the issues this pull request closes
 - [ ] Testing was performed and the results from testing match the expected results
@@ -33,6 +40,7 @@ Provide a description of how this pull request addresses each issue that this pu
 - [ ] Workflow diagrams in READMEs have been updated to reflect changes
 
 ## Reviewer Checklist 🔍
+
 - [ ] Met with developer to review all changes and testing performed
 - [ ] Code refactoring sufficiently address the issue(s) that this pull request closes
 - [ ] All code meets style guide critera
