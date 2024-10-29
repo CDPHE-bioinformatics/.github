@@ -1,6 +1,6 @@
-# CDPHE Bioinformatics
+# CDPHE GSP Bioinformatics
 
-This GitHub organization is for the Bioinformatics Unit of the Genomics Surveillance Program (GSP) within the Colorado Department of Public Health and Environment (CDPHE). 
+This GitHub organization is for the Bioinformatics Unit of the Genomics Surveillance Program (GSP) within the Colorado Department of Public Health and Environment (CDPHE).
 
 ## 👋 Welcome
 
@@ -14,16 +14,8 @@ GSP leverages the power of next-generation sequencing (NGS) to analyze the genet
 
 Here we share our pipelines and various assets used to monitor infectious diseases.
 
-- Pipelines:
-  - [SARS-CoV-2](https://github.com/CDPHE-bioinformatics/CDPHE-SARS-CoV-2)
-  - [Influenza](https://github.com/CDPHE-bioinformatics/CDPHE-influenza)
-  - [Influenza H5](https://github.com/CDPHE-bioinformatics/CDPHE-H5-influenza)
-  - [RSV](https://github.com/CDPHE-bioinformatics/CDPHE-RSV)
-  - [Enterovirus](https://github.com/CDPHE-bioinformatics/CDPHE-Enterovirus)
-  - [Mpox](https://github.com/CDPHE-bioinformatics/CDPHE-mpox)
-- Tools:
-  - [Docker Builds](https://github.com/CDPHE-bioinformatics/CDPHE-docker-builds)
-  - [Analysis Tools](https://github.com/CDPHE-bioinformatics/CDPHE-analysis-tools)
+- [Piepelines](https://github.com/orgs/CDPHE-bioinformatics/repositories?q=visibility%3Apublic+topic%3Apipeline)
+- [Tools](https://github.com/orgs/CDPHE-bioinformatics/repositories?q=visibility%3Apublic+topic%3Atools)
 - [Publications](https://github.com/CDPHE-bioinformatics/CDPHE-publications)
 
 ## 🎁 Contributing
