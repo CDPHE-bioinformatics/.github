@@ -43,6 +43,6 @@ Provide a description of how this pull request addresses each issue that this pu
 
 - [ ] Met with developer to review all changes and testing performed
 - [ ] Code refactoring sufficiently address the issue(s) that this pull request closes
-- [ ] All code meets style guide critera
+- [ ] All code meets style guide criteria
 - [ ] Confirm testing was sufficient (e.g. correct dataset was used for testing, results match the expected results). If not, the developer will perform additional testing which should be documented in the testing section above.
 - [ ] New version release number has been decided upon (if applicable)
