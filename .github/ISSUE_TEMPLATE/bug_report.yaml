@@ -1,0 +1,29 @@
+name: 🐞 Bug report
+description: Create a bug report to help us improve
+title: 'Bug'
+labels: ['bug']
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem 📝
+      description: A clear and concise description of what the bug is.
+      placeholder: When '...' we expect '...' but instead '...'.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution 💡
+      description: Potentially suggest a fix/reason for the bug or include any current workarounds that might help.
+      placeholder: Add possible solution
+  - type: textarea
+    id: context
+    attributes:
+      label: Context 🌄
+      description: Add any other context about the problem here including screenshots, logs, or detailed steps to reproduce the problem.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error

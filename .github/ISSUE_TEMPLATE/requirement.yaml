@@ -1,0 +1,38 @@
+name: 👩‍⚖️ Requirement
+description: Declare a requirement for this project
+title: 'Requirement'
+labels: ['requirement', 'enhancement']
+body:
+  - type: input
+    id: need_by_date
+    attributes:
+      label: Need by date 📅
+      description: The date by which this requirement is needed.
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem 📝
+      description: A clear and concise description of the requirement.
+      placeholder: It's impossible to '...' because '...'.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution 💡
+      description: A clear and concise description of how this requirement should be met.
+      placeholder: To solve this, we need to '...' so that '...'.
+  - type: textarea
+    id: upstream
+    attributes:
+      label: Upstream effects 🚿
+      description: Describe any anticipated upstream effects of this feature.
+  - type: textarea
+    id: downstream
+    attributes:
+      label: Downstream effects 🚿
+      description: Describe any anticipated downstream effects of this feature.
+
