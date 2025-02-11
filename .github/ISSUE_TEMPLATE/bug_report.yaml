@@ -1,6 +1,6 @@
 name: 🐞 Bug report
 description: Create a bug report to help us improve
-title: ''
+title: 'Bug title'
 labels: ['bug']
 type: bug
 body:

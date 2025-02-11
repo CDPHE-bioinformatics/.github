@@ -1,6 +1,6 @@
 name: 👩‍⚖️ Requirement
 description: Declare a requirement for this project
-title: ''
+title: 'Requirement title'
 labels: ['requirement', 'enhancement']
 type: task
 body:
