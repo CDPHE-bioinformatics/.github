@@ -1,7 +1,8 @@
 name: 👩‍⚖️ Requirement
 description: Declare a requirement for this project
-title: 'Requirement'
+title: ''
 labels: ['requirement', 'enhancement']
+type: task
 body:
   - type: input
     id: need_by_date
