@@ -1,4 +1,8 @@
-This PR closes # (add issue(s) that this pull request closes).
+This PR 
+
+closes #
+
+closes #
 
 ## Aim, context, and functionality 🎯
 
@@ -26,9 +30,12 @@ Provide a description of how this pull request addresses each issue that this pu
 
 **Test dataset(s):**
 
+
 **Test(s) performed:**
 
+
 **Results (including if the results matched the expected results):**
+
 
 ## Developer Checklist 👷‍♀️
 
@@ -37,7 +44,6 @@ Provide a description of how this pull request addresses each issue that this pu
 - [ ] Testing was performed and the results from testing match the expected results
 - [ ] All code changes match our style guide
 - [ ] README has been updated to reflect changes
-- [ ] Workflow diagrams in READMEs have been updated to reflect changes
 
 ## Reviewer Checklist 🔍
 
